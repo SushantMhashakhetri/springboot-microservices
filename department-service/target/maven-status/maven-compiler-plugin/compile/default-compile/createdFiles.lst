@@ -1,0 +1,9 @@
+net/sushant/departmentservice/service/DepartmentService.class
+net/sushant/departmentservice/DepartmentServiceApplication.class
+net/sushant/departmentservice/dto/DepartmentDto.class
+net/sushant/departmentservice/entity/Department.class
+net/sushant/departmentservice/mapper/DepartmentMapper.class
+net/sushant/departmentservice/repository/DepartmentRepository.class
+net/sushant/departmentservice/service/impl/DepartmentServiceImpl.class
+net/sushant/departmentservice/controller/DepartmentController.class
+net/sushant/departmentservice/controller/MessageController.class
