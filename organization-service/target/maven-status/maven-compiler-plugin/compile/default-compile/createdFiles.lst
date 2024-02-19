@@ -1,0 +1,8 @@
+com/sushant/organizationservice/mapper/OrganizationMapper.class
+com/sushant/organizationservice/OrganizationServiceApplication.class
+com/sushant/organizationservice/repo/OrganizationRepo.class
+com/sushant/organizationservice/serviceImpl/OrganizationServiceImpl.class
+com/sushant/organizationservice/controller/OrganizationController.class
+com/sushant/organizationservice/service/OrganizationService.class
+com/sushant/organizationservice/dto/OrganizationDto.class
+com/sushant/organizationservice/entity/Organization.class
